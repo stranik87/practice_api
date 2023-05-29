@@ -1,0 +1,92 @@
+[
+    {
+        "fullname": "K\u00fcbra Kuzucu",
+        "age": 65,
+        "gender": "female",
+        "phone": "(694)-138-7672",
+        "email": "kubra.kuzucu@example.com",
+        "country": "Turkey",
+        "nat": "TR"
+    },
+    {
+        "fullname": "Amber Burke",
+        "age": 51,
+        "gender": "female",
+        "phone": "016974 12172",
+        "email": "amber.burke@example.com",
+        "country": "United Kingdom",
+        "nat": "GB"
+    },
+    {
+        "fullname": "Linnea Neva",
+        "age": 70,
+        "gender": "female",
+        "phone": "06-424-704",
+        "email": "linnea.neva@example.com",
+        "country": "Finland",
+        "nat": "FI"
+    },
+    {
+        "fullname": "Emmeline Mikkelsen",
+        "age": 70,
+        "gender": "female",
+        "phone": "74599082",
+        "email": "emmeline.mikkelsen@example.com",
+        "country": "Norway",
+        "nat": "NO"
+    },
+    {
+        "fullname": "Allison Lawrence",
+        "age": 27,
+        "gender": "female",
+        "phone": "05-6631-3312",
+        "email": "allison.lawrence@example.com",
+        "country": "Australia",
+        "nat": "AU"
+    },
+    {
+        "fullname": "Zita Lemaire",
+        "age": 69,
+        "gender": "female",
+        "phone": "079 341 17 23",
+        "email": "zita.lemaire@example.com",
+        "country": "Switzerland",
+        "nat": "CH"
+    },
+    {
+        "fullname": "Linnea Kurtti",
+        "age": 39,
+        "gender": "female",
+        "phone": "02-551-677",
+        "email": "linnea.kurtti@example.com",
+        "country": "Finland",
+        "nat": "FI"
+    },
+    {
+        "fullname": "Phoebe Porter",
+        "age": 48,
+        "gender": "female",
+        "phone": "041-267-8121",
+        "email": "phoebe.porter@example.com",
+        "country": "Ireland",
+        "nat": "IE"
+    },
+    {
+        "fullname": "Heidelinde Casper",
+        "age": 51,
+        "gender": "female",
+        "phone": "0622-9170974",
+        "email": "heidelinde.casper@example.com",
+        "country": "Germany",
+        "nat": "DE"
+    },
+    {
+        "fullname": "Mari\u00e2ngela Duarte",
+        "age": 64,
+        "gender": "female",
+        "phone": "(44) 9254-9922",
+        "email": "mariangela.duarte@example.com",
+        "country": "Brazil",
+        "nat": "BR"
+    }
+]
